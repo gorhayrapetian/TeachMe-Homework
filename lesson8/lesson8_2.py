@@ -1,10 +1,10 @@
-# Write a Python function to calculate count of each letter in string
+# Write a Python function to calculate count the letter in string
 
-dictionary = {}
+list = []
 
 word = input('write a word: ')
 
 for i in word:
-    i.append(dictionary.values)
+    list.append(i)
 
-print(dictionary)
+print(len(list))
