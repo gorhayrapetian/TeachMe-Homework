@@ -1,5 +1,3 @@
-# sxala ashxatum
-
 lowerCase = []
 upperCase = []
 
@@ -11,4 +9,6 @@ for x in word:
     elif x.isupper():
         upperCase.append(x)
 
-print(lowerCase + upperCase)
+word = lowerCase + upperCase
+
+print(''.join(list))
